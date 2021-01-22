@@ -10,8 +10,8 @@
 		<Copyright></Copyright>
 		<Version>2.1.1</Version>
 		<AssemblyVersion>2.1.1.0</AssemblyVersion>
-		<PackageProjectUrl>https://github.com/gliesefire/Repository-UoW-Pattern</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/gliesefire/Repository-UoW-Pattern</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/gliesefire/RepositoryPattern.SqlServer</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/gliesefire/RepositoryPattern.SqlServer</RepositoryUrl>
 		<PackageTags>UnitOfWork,Repository,SqlServer</PackageTags>
 		<FileVersion>2.1.1.0</FileVersion>
 		<LangVersion>8.0</LangVersion>
